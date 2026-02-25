@@ -8,8 +8,8 @@ I'm a B.Tech CSE student specializing in Artificial Intelligence and Machine Lea
 - 📊 Interested in Machine Learning Systems
 -  🛠️ Experience designing modular AI systems with structured prompt engineering
 
-## 🛠️ Languages & Tools
-Python | SQL | Machine Learning | NLP | Transformers | Streamlit | Git
+## 🛠️ Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=python,sklearn,pytorch,git,streamlit)
 
 ## 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/shubhankar-chauhan-564978339/)
