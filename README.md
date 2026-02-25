@@ -12,5 +12,5 @@ I'm a B.Tech CSE student specializing in Artificial Intelligence and Machine Lea
 Python | SQL | Machine Learning | NLP | Transformers | Streamlit | Git
 
 ## 📫 Connect with me:
-[LinkedIn]([your-link](https://www.linkedin.com/in/shubhankar-chauhan-564978339/))
+[LinkedIn]((https://www.linkedin.com/in/shubhankar-chauhan-564978339/))
 [Twitter](https://x.com/Shubhankar721)
