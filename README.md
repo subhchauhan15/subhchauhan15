@@ -13,7 +13,7 @@ I'm a B.Tech CSE student specializing in Artificial Intelligence and Machine Lea
 [![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org/stable/)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/docs/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/docs)
-[![Streamlit](https://skillicons.dev/icons?i=streamlit)](https://docs.streamlit.io/)
+[![HuggingFace](https://skillicons.dev/icons?i=huggingface)](https://huggingface.co/)
 
 
 ## 📫 Connect with me
