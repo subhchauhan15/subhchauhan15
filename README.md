@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**subhchauhan15/subhchauhan15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech CSE student specializing in Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 AI & ML Enthusiast
+- 🤖 Working on Generative AI & RAG
+- 📊 Interested in Machine Learning Systems
+-  🛠️ Experience designing modular AI systems with structured prompt engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+Python | SQL | Machine Learning | NLP | Transformers | Streamlit | Git
+
+## 📫 Connect with me:
+[LinkedIn]([your-link](https://www.linkedin.com/in/shubhankar-chauhan-564978339/))
+[Twitter](https://x.com/Shubhankar721)
