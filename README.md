@@ -15,6 +15,7 @@ I'm a B.Tech CSE student specializing in Artificial Intelligence and Machine Lea
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/docs)
 [![Streamlit](https://skillicons.dev/icons?i=streamlit)](https://docs.streamlit.io/)
 
-## 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/shubhankar-chauhan-564978339/)
-[Twitter](https://x.com/Shubhankar721)
+
+## 📫 Connect with me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shubhankar-chauhan-564978339/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/Shubhankar721)
